@@ -1,0 +1,6 @@
+{
+  "name": "Gemma 4 Studio",
+  "description": "An easy-to-use AI web application powered by Gemma 4 with local Ollama fallback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
